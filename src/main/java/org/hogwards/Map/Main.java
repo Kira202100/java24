@@ -39,7 +39,7 @@ public class Main {
 //        adStudent(sedrik, studentList);    !!!!!!!
 //        System.out.println(studentList);
 //        findStudent("Sliserin",1,transform(studentList));
-        System.out.println("Hellogit s");
+        System.out.println("Hello");
        
 
     }
