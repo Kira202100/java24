@@ -46,7 +46,7 @@ public class Main {
 //        book.findAndPrint("Маша");
 
         System.out.println("hello word");
-        System.out.println( word");
+        System.out.println( "word");
 
 
 
