@@ -47,6 +47,9 @@ public class Main {
 
         System.out.println("hello word");
         System.out.println( "word");
+        System.out.println( "123");
+
+
 
 
 
